@@ -1,0 +1,11 @@
+{
+    "name": "knot/anvil",
+    "autoload": {
+        "psr-4": {
+            "Knot\\Anvil\\Framework\\": "framework/",
+            "Knot\\Anvil\\Controllers\\": "controllers/",
+            "Knot\\Anvil\\Routes\\": "routes/"
+        }
+    },
+    "require": {}
+}
